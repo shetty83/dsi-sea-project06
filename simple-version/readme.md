@@ -21,21 +21,21 @@ Here are some questions to keep in mind:
 - What factors are the most direct predictors of rating?
 - You can use rating as your target variable. But it's up to you whether to treat it as continuous, binary, or multiclass.
 
-**Goal**: Completed Jupyter notebook that includes modeling using a random forest and an blog post explaining your findings.
+**Goal**: Completed web url that includes modeling using a random forest and an blog post explaining your findings.
 
 ---
 
 ## Requirements
-This is deliberately open ended. There is no starter code. It's up to you how to acquire the data, store the data, and what features you want to use. 
+This is deliberately open ended. There is no starter code. It's up to you how to acquire the data, store the data, and what features you want to use.
 
-We expect you to use a **tree-based model**, but the rest of the decisions are up to you. 
+We expect you to use a **tree-based model**, but the rest of the decisions are up to you.
 
 We will be looking for the following things:
  - A clear problem statement & description of the goals of your study to be included in the final report
  - Data from IMDB
  - Cleaned and refined data
  - Visualization. Plots that describe your data and evaluate your model.
- - Tree-based models (use any combination of ensemble techniques: random forests, bagging, boosting). 
+ - Tree-based models (use any combination of ensemble techniques: random forests, bagging, boosting).
  - A blog post presenting the results of your findings as a report to Netflix, including:
   - a problem statement,
   - summary statistics of the various factors (e.g. year, number of ratings, etc.),
@@ -47,15 +47,16 @@ We will be looking for the following things:
 
 ## Necessary Deliverables / Submission
 
-- Materials must be in a clearly labeled Jupyter notebook
-- Link to the blog post with your report in your Jupyter notebook
-- Materials must be submitted to GitHub by Thursday of Week 7 (July 21).
+- Materials must be present on your website's page
+- Materials must be submitted to GitHub by Monday of Week 7.
+- Type your website's url under here:
+
 
 ---
 
 ## Suggested Ways to Get Started
 
-- You can get data on the top 250 movies on IMDB using the [IMBDpie API](https://github.com/richardasaurus/imdb-pie) 
+- You can get data on the top 250 movies on IMDB using the [IMBDpie API](https://github.com/richardasaurus/imdb-pie)
 - If you need additional data, you can either research additional APIs, or scrape it yourself using BeautifulSoup
 - Read the docs for whatever technologies you use. Most of the time, there is a tutorial that you can follow, but not always, and learning to read documentation is crucial to your success!
 - Document **everything**.
